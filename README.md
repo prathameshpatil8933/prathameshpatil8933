@@ -44,8 +44,8 @@
 
 ### 📬 Let's Connect
 
-- 📄 [LinkedIn](https://www.linkedin.com/in/prathamesh-patil/)
-- 📌 [GitHub Projects](https://github.com/prathameshpatil-dev?tab=repositories)
+- 📄 [LinkedIn](https://www.linkedin.com/in/prathamesh-patil-408602257/)
+- 📌 [GitHub Projects](https://github.com/prathameshpatil8933/java-fullstack-roadmap)
 - 💡 Always open to internships, collaborations, and feedback!
 
 ---
